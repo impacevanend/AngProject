@@ -1,0 +1,14 @@
+ng new nombreDelProyecto
+
+ng serve  
+(iniciarElProyecto)
+
+
+Crear componente
+ng g c (forma abreviada)
+ng generate component  shared/components/header
+
+
+Instalar dependencia json-server
+
+npm i -g json-server
