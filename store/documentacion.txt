@@ -12,3 +12,6 @@ ng generate component  shared/components/header
 Instalar dependencia json-server
 
 npm i -g json-server
+
+Angular material
+ng add @angular/material
